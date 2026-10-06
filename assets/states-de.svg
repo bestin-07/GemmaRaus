@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 132" width="880" height="132" role="img" aria-labelledby="t d">
+  <title id="t">Die vier Antworten von Gemma Raus</title>
+  <desc id="d">GEMMA RAUS: trocken, raus mit dir. PASST SCHON: leichter Niesel, trotzdem raus. NOCH 12 MIN: es regnet, eine Pause kommt. BLEIB DRIN: kein brauchbares Trockenfenster, drinnen bleiben.</desc>
+  <rect width="880" height="132" rx="18" fill="#F2F0EB"/>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="19" letter-spacing="1" fill="#FFFFFF">
+    <rect x="16"  y="16" width="200" height="64" rx="12" fill="#7A5E00"/>
+    <text x="116" y="55" text-anchor="middle">GEMMA RAUS</text>
+    <rect x="232" y="16" width="200" height="64" rx="12" fill="#1E86B0"/>
+    <text x="332" y="55" text-anchor="middle">PASST SCHON</text>
+    <rect x="448" y="16" width="200" height="64" rx="12" fill="#0A6E9C"/>
+    <text x="548" y="55" text-anchor="middle">NOCH 12 MIN</text>
+    <rect x="664" y="16" width="200" height="64" rx="12" fill="#024D6E"/>
+    <text x="764" y="55" text-anchor="middle">BLEIB DRIN</text>
+  </g>
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#3A3833" text-anchor="middle">
+    <text x="116" y="108">trocken · raus</text>
+    <text x="332" y="108">Niesel · trotzdem raus</text>
+    <text x="548" y="108">Regen · Pause kommt</text>
+    <text x="764" y="108">keine Lücke · drinnen</text>
+  </g>
+</svg>
